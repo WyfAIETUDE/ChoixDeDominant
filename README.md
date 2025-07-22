@@ -146,17 +146,6 @@ java -jar ESIGELEC-ChoixDominante.jar
 2. Soumission des choix par ordre de préférence
 3. Consultation des résultats d'affectation
 
-## Captures d'écran
-
-1. **Interface administrateur** :
-   ![Admin GUI](admin_gui.png)
-
-2. **Interface étudiant** :
-   ![Student GUI](student_gui.png)
-
-3. **Consultation des places** :
-   ![Quota Status](quota_status.png)
-
 ## FAQ
 
 Q: Comment réinitialiser un mot de passe étudiant ?
@@ -174,7 +163,7 @@ R: Exporter régulièrement les tables :
 
 ## Contact
 
-Équipe de maintenance : yangzhen@esigelec.fr / wuyufan@esigelec.fr
+Équipe de maintenance : yangzhen@groupe-esigelec.org / yufan.wu@groupe-esigelec.fr
 
 Version : 2.0.0
-Dernière mise à jour : 15 novembre 2023
+Dernière mise à jour : 15 juillet 2025
